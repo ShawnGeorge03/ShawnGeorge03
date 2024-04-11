@@ -232,8 +232,7 @@ and __actively seeking New Grad SWE/Full Stack Developer__ opportunities.
             </td>
             <td rowspan="2">
                 <img loading="lazy"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnGeorge03&
-                    layout=donut&langs_count=10&theme=algolia&size_weight=0&count_weight=1"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnGeorge03&layout=donut&langs_count=10&theme=algolia&size_weight=0&count_weight=1"
                     alt="Most Used Languages" />
             </td>
         </tr>
