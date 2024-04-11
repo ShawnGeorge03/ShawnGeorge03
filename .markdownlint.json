@@ -1,0 +1,20 @@
+{
+    "default": true,
+    "MD033": {
+        "allowed_elements": [
+            "a",
+            "img",
+            "br",
+            "details",
+            "summary",
+            "table",
+            "tr",
+            "td",
+            "center"
+        ]
+    },
+    "MD013": {
+        "tables": true,
+        "line_length": 100
+    }
+}
