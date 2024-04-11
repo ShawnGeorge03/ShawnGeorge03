@@ -4,9 +4,10 @@
 
 I'm Shawn Santhoshgeorge, a recent Statistics Specialist graduate
 (University of Toronto, Class of 2024) with Full Stack Software Development
-experience from co-op roles at <a href="https://temerityanalytics.com/">Temerity Analytics </a>
-and <a href="https://www.skatescribe.com/">Skatescribe </a>. I'm expanding my skillset with Golang
-and __actively seeking New Grad SWE/Full Stack Developer__ opportunities.
+experience from co-op roles at <a target="_blank" rel="noopener" href="https://temerityanalytics.com/">
+Temerity Analytics </a> and <a target="_blank" rel="noopener" href="https://www.skatescribe.com/">
+Skatescribe </a>. I'm expanding my skillset with Golang and
+__actively seeking New Grad SWE/Full Stack Developer__ opportunities.
 
 ### Feel Free to Contact Me
 
