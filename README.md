@@ -27,7 +27,12 @@ __actively seeking New Grad SWE/Full Stack Developer__ opportunities.
 </a>
 
 <br />
-<br />
+
+Check out my latest resume
+<a href="./resume/Resume.pdf" target="_blank" rel="noopener">
+    here
+</a>
+
 <br />
 
 <details>
